@@ -1,4 +1,8 @@
-Hirarki Product Card:
+# Study Jam Frontend #1
+
+## Hierarchy Product Card
+
+This hierarchy is from `Thinking in Frontend` process.
 
 - Wrapper
   - Gambar Product
@@ -7,5 +11,5 @@ Hirarki Product Card:
   - Lokasi Product
     - Icon
     - Title
-  - Rating
-  - Estimasi
+  - Rating Product
+  - Estimasi Product
